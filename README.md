@@ -12,6 +12,8 @@ Tool that simulates a graphical interface similar to that of GTA V (PS3). This t
 - Developer: 27prxblms (Xzhyan)
 - Linguagem: Python
 
+---
+
 ## Utilização:
 
 Certifique-se de ter os seguintes itens instalados.
