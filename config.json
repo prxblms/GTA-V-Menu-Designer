@@ -1,0 +1,9 @@
+{
+    "menu_name": "VIDEO MENU BASE",
+    "menu_bg_color": "#FF0000",
+    "menu_banner_color": "#131313",
+    "menu_set_bg_img": "1",
+    "menu_custom_img": "rect.png",
+    "menu_left_sided": "0",
+    "menu_number_options": "13"
+}
