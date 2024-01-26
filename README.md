@@ -26,4 +26,4 @@ https://youtu.be/W7WyBE10zl4?si=sxiMU8pDOTA1_-rB
 ### Exemplo de uso para criar novos "DRAW_RECTs".
 https://youtu.be/W7WyBE10zl4?si=sxiMU8pDOTA1_-rB
 
-![omesniffer](src\gtavmenudesigner.PNG)
+![omesniffer](src/gtavmenudesigner.PNG)
