@@ -1,10 +1,10 @@
 # GTA-V-Menu-Designer
-Basicamente, é um programa de interface gráfica que auxilia na criação do design dos ModMenus do GTA V.
+Basicamente, é um programa de interface gráfica que auxilia na criação do design dos ModMenus do GTA V (PS3/Xbox360).
 
 ---
 
 ## Para que serve esta ferramenta?
-Tool that simulates a graphical interface similar to that of GTA V (PS3). This tool serves to assist in creating ModMenus for GTA V.
+Tool that simulates a graphical interface similar to that of GTA V (PS3). This tool serves to assist in creating ModMenus for GTA V (PS3/Xbox360).
 
 ---
 
